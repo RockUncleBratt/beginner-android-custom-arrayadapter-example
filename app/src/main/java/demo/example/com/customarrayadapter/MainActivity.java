@@ -11,6 +11,7 @@ import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
+    //CCreating a custom adapter called flavorAdapter
     private AndroidFlavorAdapter flavorAdapter;
 
     @Override
