@@ -1,7 +1,7 @@
 package demo.example.com.customarrayadapter;
 
 /**
- * Created by poornima-udacity on 6/26/15.
+ * Creating a custom class called AndroidFlavor. Objects of this class will have 3 properties - versionName, versionNumber, image.
  */
 public class AndroidFlavor {
     String versionName;
